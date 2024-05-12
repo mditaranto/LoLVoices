@@ -23,8 +23,8 @@ jobs:
 
     - name: Commit changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
+        git config --local user.email "mditaranto@iesnervion.es"
+        git config --local user.name "mditaranto"
         git add campeones_audios.json
         git commit -m "Update JSON file"
         git push
