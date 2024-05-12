@@ -1,0 +1,794 @@
+[
+  {
+    "nombre": "Aatrox",
+    "audios": [
+      {
+        "nombre": "File0001",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0001.wav"
+      },
+      {
+        "nombre": "File0002",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0002.wav"
+      },
+      {
+        "nombre": "File0003",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0003.wav"
+      },
+      {
+        "nombre": "File0004",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0004.wav"
+      },
+      {
+        "nombre": "File0005",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0005.wav"
+      },
+      {
+        "nombre": "File0006",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0006.wav"
+      },
+      {
+        "nombre": "File0007",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0007.wav"
+      },
+      {
+        "nombre": "File0008",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0008.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0009.wav"
+      },
+      {
+        "nombre": "File0010",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0010.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0011.wav"
+      },
+      {
+        "nombre": "File0012",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0012.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0013.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0014.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0015.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0016.wav"
+      },
+      {
+        "nombre": "File0017",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0017.wav"
+      },
+      {
+        "nombre": "File0018",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0018.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0019.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0020.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0021.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0022.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0023.wav"
+      },
+      {
+        "nombre": "File0024",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0024.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0025.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0026.wav"
+      },
+      {
+        "nombre": "File0027",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0027.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0028.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0029.wav"
+      },
+      {
+        "nombre": "File0030",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0030.wav"
+      },
+      {
+        "nombre": "File0031",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0031.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0032.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0033.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0034.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0035.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0036.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0037.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0038.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0039.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0040.wav"
+      },
+      {
+        "nombre": "File0041",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0041.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0042.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0043.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0044.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0045.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0046.wav"
+      },
+      {
+        "nombre": "File0047",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0047.wav"
+      },
+      {
+        "nombre": "File0048",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0048.wav"
+      },
+      {
+        "nombre": "File0049",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0049.wav"
+      },
+      {
+        "nombre": "File0050",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Aatrox/File0050.wav"
+      }
+    ]
+  },
+  {
+    "nombre": "Kayn",
+    "audios": [
+      {
+        "nombre": "File0001",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0001.wav"
+      },
+      {
+        "nombre": "File0002",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0002.wav"
+      },
+      {
+        "nombre": "File0003",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0003.wav"
+      },
+      {
+        "nombre": "File0004",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0004.wav"
+      },
+      {
+        "nombre": "File0005",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0005.wav"
+      },
+      {
+        "nombre": "File0006",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0006.wav"
+      },
+      {
+        "nombre": "File0007",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0007.wav"
+      },
+      {
+        "nombre": "File0008",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0008.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0009.wav"
+      },
+      {
+        "nombre": "File0010",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0010.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0011.wav"
+      },
+      {
+        "nombre": "File0012",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0012.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0013.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0014.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0015.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0016.wav"
+      },
+      {
+        "nombre": "File0017",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0017.wav"
+      },
+      {
+        "nombre": "File0018",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0018.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0019.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0020.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0021.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0022.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0023.wav"
+      },
+      {
+        "nombre": "File0024",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0024.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0025.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0026.wav"
+      },
+      {
+        "nombre": "File0027",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0027.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0028.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0029.wav"
+      },
+      {
+        "nombre": "File0030",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0030.wav"
+      },
+      {
+        "nombre": "File0031",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0031.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0032.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0033.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0034.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0035.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0036.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0037.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0038.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0039.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0040.wav"
+      },
+      {
+        "nombre": "File0041",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0041.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0042.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0043.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0044.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0045.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0046.wav"
+      },
+      {
+        "nombre": "File0047",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0047.wav"
+      },
+      {
+        "nombre": "File0048",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0048.wav"
+      },
+      {
+        "nombre": "File0049",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kayn/File0049.wav"
+      }
+    ]
+  },
+  {
+    "nombre": "Kindred",
+    "audios": [
+      {
+        "nombre": "File0001",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0001.wav"
+      },
+      {
+        "nombre": "File0002",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0002.wav"
+      },
+      {
+        "nombre": "File0003",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0003.wav"
+      },
+      {
+        "nombre": "File0004",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0004.wav"
+      },
+      {
+        "nombre": "File0005",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0005.wav"
+      },
+      {
+        "nombre": "File0006",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0006.wav"
+      },
+      {
+        "nombre": "File0007",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0007.wav"
+      },
+      {
+        "nombre": "File0008",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0008.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0009.wav"
+      },
+      {
+        "nombre": "File0010",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0010.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0011.wav"
+      },
+      {
+        "nombre": "File0012",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0012.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0013.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0014.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0015.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0016.wav"
+      },
+      {
+        "nombre": "File0017",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0017.wav"
+      },
+      {
+        "nombre": "File0018",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0018.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0019.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0020.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0021.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0022.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0023.wav"
+      },
+      {
+        "nombre": "File0024",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0024.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0025.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0026.wav"
+      },
+      {
+        "nombre": "File0027",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0027.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0028.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0029.wav"
+      },
+      {
+        "nombre": "File0030",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0030.wav"
+      },
+      {
+        "nombre": "File0031",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0031.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0032.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0033.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0034.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0035.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0036.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0037.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0038.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0039.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0040.wav"
+      },
+      {
+        "nombre": "File0041",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0041.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0042.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0043.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0044.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0045.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0046.wav"
+      },
+      {
+        "nombre": "File0047",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Kindred/File0047.wav"
+      }
+    ]
+  },
+  {
+    "nombre": "Pantheon",
+    "audios": [
+      {
+        "nombre": "File0001",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0001.wav"
+      },
+      {
+        "nombre": "File0002",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0002.wav"
+      },
+      {
+        "nombre": "File0003",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0003.wav"
+      },
+      {
+        "nombre": "File0004",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0004.wav"
+      },
+      {
+        "nombre": "File0005",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0005.wav"
+      },
+      {
+        "nombre": "File0006",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0006.wav"
+      },
+      {
+        "nombre": "File0007",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0007.wav"
+      },
+      {
+        "nombre": "File0008",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0008.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0009.wav"
+      },
+      {
+        "nombre": "File0010",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0010.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0011.wav"
+      },
+      {
+        "nombre": "File0012",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0012.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0013.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0014.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0015.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0016.wav"
+      },
+      {
+        "nombre": "File0017",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0017.wav"
+      },
+      {
+        "nombre": "File0018",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0018.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0019.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0020.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0021.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0022.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0023.wav"
+      },
+      {
+        "nombre": "File0024",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0024.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0025.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0026.wav"
+      },
+      {
+        "nombre": "File0027",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0027.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0028.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0029.wav"
+      },
+      {
+        "nombre": "File0030",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0030.wav"
+      },
+      {
+        "nombre": "File0031",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0031.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0032.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0033.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0034.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0035.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0036.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0037.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0038.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0039.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0040.wav"
+      },
+      {
+        "nombre": "File0041",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0041.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0042.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0043.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0044.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0045.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0046.wav"
+      },
+      {
+        "nombre": "File0047",
+        "url": "https://github.com/tu_usuario/tu_repositorio/raw/main/Voces\\Pantheon/File0047.wav"
+      }
+    ]
+  }
+]
