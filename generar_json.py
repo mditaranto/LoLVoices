@@ -11,7 +11,7 @@ def generar_lista_audios(campeon):
     for archivo in os.listdir(ruta_campeon):
         if archivo.endswith(".wav"):
             nombre_archivo = os.path.splitext(archivo)[0]  # Nombre del archivo sin extensión
-            url_audio = f"https://github.com/tu_usuario/tu_repositorio/raw/main/{ruta_campeon}/{archivo}"
+            url_audio = f"https://github.com/mditaranto/LoLVoices/raw/main/{ruta_campeon}/{archivo}"
             lista_audios.append({"nombre": nombre_archivo, "url": url_audio})
     return lista_audios
 
