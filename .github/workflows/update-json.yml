@@ -1,0 +1,32 @@
+name: Update JSON
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Run Python script
+      run: python generar_json.py
+
+    - name: Commit changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      run: |
+        git config --local user.email "mditaranto@iesnervion.es"
+        git config --local user.name "mditaranto"
+        git add campeones_audios.json
+        git commit -m "Update JSON file"
+        git push https://github.com/mditaranto/LoLVoices.git HEAD:main
