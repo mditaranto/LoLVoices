@@ -22,9 +22,11 @@ jobs:
       run: python generar_json.py
 
     - name: Commit changes
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
         git config --local user.email "mditaranto@iesnervion.es"
         git config --local user.name "mditaranto"
         git add campeones_audios.json
         git commit -m "Update JSON file"
-        git push
+        git push https://github.com/mditaranto/LoLVoices.git HEAD:main
