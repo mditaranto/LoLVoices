@@ -901,6 +901,10 @@
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0001.wav"
       },
       {
+        "nombre": "File0085",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Kayn/File0085.wav"
+      },
+      {
         "nombre": "File0002",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0002.wav"
       },
@@ -929,6 +933,10 @@
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0008.wav"
       },
       {
+        "nombre": "File0075",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Kayn/File0075.wav"
+      },
+      {
         "nombre": "File0009",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0009.wav"
       },
@@ -943,6 +951,10 @@
       {
         "nombre": "File0012",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0012.wav"
+      },
+      {
+        "nombre": "File0060",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Kayn/File0060.wav"
       },
       {
         "nombre": "File0013",
@@ -1039,6 +1051,10 @@
       {
         "nombre": "File0039",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn/File0039.wav"
+      },
+      {
+        "nombre": "File0084",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Kayn/File0084.wav"
       },
       {
         "nombre": "File0040",
@@ -1238,6 +1254,692 @@
       }
     ],
     "imagen": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Kayn\\Kayn.jpg"
+  },
+  {
+    "nombre": "Lux",
+    "audios": [
+      {
+        "nombre": "File0085",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0085.wav"
+      },
+      {
+        "nombre": "File0096",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0096.wav"
+      },
+      {
+        "nombre": "File0076",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0076.wav"
+      },
+      {
+        "nombre": "File0058",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0058.wav"
+      },
+      {
+        "nombre": "File0050",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0050.wav"
+      },
+      {
+        "nombre": "File0054",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0054.wav"
+      },
+      {
+        "nombre": "File0053",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0053.wav"
+      },
+      {
+        "nombre": "File0089",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0089.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0038.wav"
+      },
+      {
+        "nombre": "File0072",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0072.wav"
+      },
+      {
+        "nombre": "File0064",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0064.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0022.wav"
+      },
+      {
+        "nombre": "File0080",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0080.wav"
+      },
+      {
+        "nombre": "File0067",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0067.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0028.wav"
+      },
+      {
+        "nombre": "File0099",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0099.wav"
+      },
+      {
+        "nombre": "File0065",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0065.wav"
+      },
+      {
+        "nombre": "File0092",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0092.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0019.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0043.wav"
+      },
+      {
+        "nombre": "File0100",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0100.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0020.wav"
+      },
+      {
+        "nombre": "File0083",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0083.wav"
+      },
+      {
+        "nombre": "File0087",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0087.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0021.wav"
+      },
+      {
+        "nombre": "File0079",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0079.wav"
+      },
+      {
+        "nombre": "File0097",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0097.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0039.wav"
+      },
+      {
+        "nombre": "File0095",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0095.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0036.wav"
+      },
+      {
+        "nombre": "File0093",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0093.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0014.wav"
+      },
+      {
+        "nombre": "File0091",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0091.wav"
+      },
+      {
+        "nombre": "File0073",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0073.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0011.wav"
+      },
+      {
+        "nombre": "File0081",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0081.wav"
+      },
+      {
+        "nombre": "File0049",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0049.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0025.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0042.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0044.wav"
+      },
+      {
+        "nombre": "File0090",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0090.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0032.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0029.wav"
+      },
+      {
+        "nombre": "File0098",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0098.wav"
+      },
+      {
+        "nombre": "File0077",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0077.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0045.wav"
+      },
+      {
+        "nombre": "File0061",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0061.wav"
+      },
+      {
+        "nombre": "File0017",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0017.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0035.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0023.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0033.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0046.wav"
+      },
+      {
+        "nombre": "File0052",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0052.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0016.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0037.wav"
+      },
+      {
+        "nombre": "File0063",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0063.wav"
+      },
+      {
+        "nombre": "File0086",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0086.wav"
+      },
+      {
+        "nombre": "File0070",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0070.wav"
+      },
+      {
+        "nombre": "File0078",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0078.wav"
+      },
+      {
+        "nombre": "File0088",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0088.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0026.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0009.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0034.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0015.wav"
+      },
+      {
+        "nombre": "File0059",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0059.wav"
+      },
+      {
+        "nombre": "File0060",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0060.wav"
+      },
+      {
+        "nombre": "File0069",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0069.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0013.wav"
+      },
+      {
+        "nombre": "File0084",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0084.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Lux/File0040.wav"
+      }
+    ]
+  },
+  {
+    "nombre": "Camille",
+    "audios": [
+      {
+        "nombre": "File0056",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0056.wav"
+      },
+      {
+        "nombre": "File0031",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0031.wav"
+      },
+      {
+        "nombre": "File0085",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0085.wav"
+      },
+      {
+        "nombre": "File0002",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0002.wav"
+      },
+      {
+        "nombre": "File0096",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0096.wav"
+      },
+      {
+        "nombre": "File0047",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0047.wav"
+      },
+      {
+        "nombre": "File0027",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0027.wav"
+      },
+      {
+        "nombre": "File0076",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0076.wav"
+      },
+      {
+        "nombre": "File0058",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0058.wav"
+      },
+      {
+        "nombre": "File0005",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0005.wav"
+      },
+      {
+        "nombre": "File0071",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0071.wav"
+      },
+      {
+        "nombre": "File0007",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0007.wav"
+      },
+      {
+        "nombre": "File0048",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0048.wav"
+      },
+      {
+        "nombre": "File0050",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0050.wav"
+      },
+      {
+        "nombre": "File0024",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0024.wav"
+      },
+      {
+        "nombre": "File0054",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0054.wav"
+      },
+      {
+        "nombre": "File0053",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0053.wav"
+      },
+      {
+        "nombre": "File0089",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0089.wav"
+      },
+      {
+        "nombre": "File0038",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0038.wav"
+      },
+      {
+        "nombre": "File0072",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0072.wav"
+      },
+      {
+        "nombre": "File0064",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0064.wav"
+      },
+      {
+        "nombre": "File0022",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0022.wav"
+      },
+      {
+        "nombre": "File0080",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0080.wav"
+      },
+      {
+        "nombre": "File0067",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0067.wav"
+      },
+      {
+        "nombre": "File0066",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0066.wav"
+      },
+      {
+        "nombre": "File0028",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0028.wav"
+      },
+      {
+        "nombre": "File0099",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0099.wav"
+      },
+      {
+        "nombre": "File0065",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0065.wav"
+      },
+      {
+        "nombre": "File0092",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0092.wav"
+      },
+      {
+        "nombre": "File0019",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0019.wav"
+      },
+      {
+        "nombre": "File0043",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0043.wav"
+      },
+      {
+        "nombre": "File0082",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0082.wav"
+      },
+      {
+        "nombre": "File0001",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0001.wav"
+      },
+      {
+        "nombre": "File0100",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0100.wav"
+      },
+      {
+        "nombre": "File0020",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0020.wav"
+      },
+      {
+        "nombre": "File0083",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0083.wav"
+      },
+      {
+        "nombre": "File0062",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0062.wav"
+      },
+      {
+        "nombre": "File0087",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0087.wav"
+      },
+      {
+        "nombre": "File0021",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0021.wav"
+      },
+      {
+        "nombre": "File0079",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0079.wav"
+      },
+      {
+        "nombre": "File0097",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0097.wav"
+      },
+      {
+        "nombre": "File0008",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0008.wav"
+      },
+      {
+        "nombre": "File0039",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0039.wav"
+      },
+      {
+        "nombre": "File0095",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0095.wav"
+      },
+      {
+        "nombre": "File0036",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0036.wav"
+      },
+      {
+        "nombre": "File0041",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0041.wav"
+      },
+      {
+        "nombre": "File0012",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0012.wav"
+      },
+      {
+        "nombre": "File0093",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0093.wav"
+      },
+      {
+        "nombre": "File0068",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0068.wav"
+      },
+      {
+        "nombre": "File0014",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0014.wav"
+      },
+      {
+        "nombre": "File0091",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0091.wav"
+      },
+      {
+        "nombre": "File0073",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0073.wav"
+      },
+      {
+        "nombre": "File0010",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0010.wav"
+      },
+      {
+        "nombre": "File0011",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0011.wav"
+      },
+      {
+        "nombre": "File0057",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0057.wav"
+      },
+      {
+        "nombre": "File0018",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0018.wav"
+      },
+      {
+        "nombre": "File0081",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0081.wav"
+      },
+      {
+        "nombre": "File0006",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0006.wav"
+      },
+      {
+        "nombre": "File0049",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0049.wav"
+      },
+      {
+        "nombre": "File0025",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0025.wav"
+      },
+      {
+        "nombre": "File0042",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0042.wav"
+      },
+      {
+        "nombre": "File0094",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0094.wav"
+      },
+      {
+        "nombre": "File0044",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0044.wav"
+      },
+      {
+        "nombre": "File0090",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0090.wav"
+      },
+      {
+        "nombre": "File0074",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0074.wav"
+      },
+      {
+        "nombre": "File0032",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0032.wav"
+      },
+      {
+        "nombre": "File0029",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0029.wav"
+      },
+      {
+        "nombre": "File0098",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0098.wav"
+      },
+      {
+        "nombre": "File0077",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0077.wav"
+      },
+      {
+        "nombre": "File0045",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0045.wav"
+      },
+      {
+        "nombre": "File0055",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0055.wav"
+      },
+      {
+        "nombre": "File0004",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0004.wav"
+      },
+      {
+        "nombre": "File0061",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0061.wav"
+      },
+      {
+        "nombre": "File0035",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0035.wav"
+      },
+      {
+        "nombre": "File0051",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0051.wav"
+      },
+      {
+        "nombre": "File0023",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0023.wav"
+      },
+      {
+        "nombre": "File0033",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0033.wav"
+      },
+      {
+        "nombre": "File0046",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0046.wav"
+      },
+      {
+        "nombre": "File0003",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0003.wav"
+      },
+      {
+        "nombre": "File0052",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0052.wav"
+      },
+      {
+        "nombre": "File0016",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0016.wav"
+      },
+      {
+        "nombre": "File0037",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0037.wav"
+      },
+      {
+        "nombre": "File0063",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0063.wav"
+      },
+      {
+        "nombre": "File0086",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0086.wav"
+      },
+      {
+        "nombre": "File0070",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0070.wav"
+      },
+      {
+        "nombre": "File0078",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0078.wav"
+      },
+      {
+        "nombre": "File0030",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0030.wav"
+      },
+      {
+        "nombre": "File0088",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0088.wav"
+      },
+      {
+        "nombre": "File0026",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0026.wav"
+      },
+      {
+        "nombre": "File0075",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0075.wav"
+      },
+      {
+        "nombre": "File0009",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0009.wav"
+      },
+      {
+        "nombre": "File0034",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0034.wav"
+      },
+      {
+        "nombre": "File0015",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0015.wav"
+      },
+      {
+        "nombre": "File0059",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0059.wav"
+      },
+      {
+        "nombre": "File0060",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0060.wav"
+      },
+      {
+        "nombre": "File0069",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0069.wav"
+      },
+      {
+        "nombre": "File0013",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0013.wav"
+      },
+      {
+        "nombre": "File0084",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0084.wav"
+      },
+      {
+        "nombre": "File0040",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Camille/File0040.wav"
+      }
+    ]
   },
   {
     "nombre": "Kindred",
@@ -2371,6 +3073,10 @@
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Pantheon/File0008.wav"
       },
       {
+        "nombre": "File0075",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Pantheon/File0075.wav"
+      },
+      {
         "nombre": "File0009",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Pantheon/File0009.wav"
       },
@@ -2385,6 +3091,10 @@
       {
         "nombre": "File0012",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Pantheon/File0012.wav"
+      },
+      {
+        "nombre": "File0060",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Pantheon/File0060.wav"
       },
       {
         "nombre": "File0013",
@@ -2477,6 +3187,10 @@
       {
         "nombre": "File0039",
         "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces\\Pantheon/File0039.wav"
+      },
+      {
+        "nombre": "File0084",
+        "url": "https://github.com/mditaranto/LoLVoices/raw/main/Voces/Pantheon/File0084.wav"
       },
       {
         "nombre": "File0040",
