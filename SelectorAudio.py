@@ -1,7 +1,7 @@
 import os
 
 # Directorio donde se encuentran los archivos de audio
-directorio = "Kled"
+directorio = "Voces/Braum"
 
 # Lista todos los archivos en el directorio
 archivos = os.listdir(directorio)
